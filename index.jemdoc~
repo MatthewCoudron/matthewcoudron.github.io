@@ -1,0 +1,18 @@
+# jemdoc: menu{MENU}{index.html}
+= Matthew Coudron
+
+~~~
+{}{img_left}{diagram1.jpg}{}{}{}{}
+
+
+I am a PhD student in the [http://toc.csail.mit.edu/ Theory of Computation] group at [http://www.mit.edu MIT].  My advisor is [http://www-math.mit.edu/~shor/ Peter Shor].  \n
+
+=== Research Interests
+I am broadly interested in Theoretical Computer Science, especially its applications to neighboring sciences.  I study Quantum Algorithms and Information, and have additional interests in machine learning, and semidefinite programming.  You can find out more about my interests by looking at my [publications.html publications].
+\n
+
+Email: $\mathrm{mcoudron@mit.edu}$
+\n
+
+
+~~~

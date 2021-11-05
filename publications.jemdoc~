@@ -1,0 +1,54 @@
+# jemdoc: menu{MENU}{publications.html}
+= Publications --- Matthew Coudron
+
+=== Research Interests
+I am broadly interested in Theoretical Computer Science, especially its applications to neighboring sciences.  I study Quantum Algorithms and Information, and have additional interests in machine learning, and semidefinite programming.  For more 
+\n
+
+
+== Papers
+
+- *Interactive Proofs with Approximately Commuting Provers* \n
+Matthew Coudron, Thomas Vidick \n
+International Colloquium on Automata, Languages, and Programming *(ICALP)*, 2015 (to appear)\n
+
+\n
+
+
+- *Infinite Randomness Expansion with a /Constant/ Number of Devices* [http://arxiv.org/abs/1310.6755 \[pdf\]] \n
+Matthew Coudron, Henry Yuen \n
+ACM Symposium on the Theory of Computing *(STOC)*, 2014 \n
+	-- Also presented at the XVII Conference on Quantum Information Processing ([http://benasque.org/2014QIP/ *QIP*]), 2014 \n
+	-- In his [http://www.americanscientist.org/issues/pub/quantum-randomness American Scientist article] Scott Aaronson gives a great discussion of this problem, and the whole field of randomness expansion.\n
+
+\n
+
+
+
+- *Robust Randomness Amplifiers: Upper and Lower Bounds*  [http://arxiv.org/abs/1305.6626  \[pdf\] ] \n
+Matthew Coudron, Thomas Vidick, Henry Yuen \n
+*APPROX-RANDOM* 2013\n
+
+\n
+
+
+
+- *On the Sample Complexity of Robust PCA* [http://papers.nips.cc/paper/4699-on-the-sample-complexity-of-robust-pca.pdf \[pdf\]] \n 
+Matthew Coudron, Gilad Lerman \n
+Advances in Neural Information Processing Systems *(NIPS)*, 2012 \n
+
+\n
+
+== Other Presentations
+
+
+- *Testing Untrusted Devices via Quantum Mechanics* \n
+	-- [https://www.soihub.org/meetings/mit.php Charles River Science of Information Day], 2014 \n
+	-- Astronaut Scholars Technical Conference, 2014 \n
+
+\n
+
+- *Unfrustration Condition and Degeneracy of Qudits on Trees* [http://arxiv.org/abs/1209.4395 \[pdf\]]  \n
+Matthew Coudron, Ramis Movassagh \n
+XVI Conference on Quantum Information Processing ([http://conference.iiis.tsinghua.edu.cn/QIP2013/index.html *QIP*]) 2013 - Poster
+
